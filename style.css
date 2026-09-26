@@ -15,6 +15,6 @@ h1{font-size:clamp(62px,6.2vw,96px)}
 .text-link>.icon{margin-left:7px}
 .hero-bottom a .icon{width:23px;height:23px}
 .contact-circle .icon{width:45%;height:45%}
-@media(max-width:1000px) and (min-width:701px){.header nav{gap:14px}.header nav a{font-size:13.2px}.hero-copy{padding-left:8%;padding-right:5%}h1{font-size:64px}.hero-bottom{gap:12px}}
+@media(max-width:1000px) and (min-width:701px){.header nav{gap:14px}.hero-copy{padding-left:8%;padding-right:5%}h1{font-size:64px}.hero-bottom{gap:12px}}
 @media(max-width:700px){h1{font-size:clamp(53px,12.5vw,83px);letter-spacing:-.045em}.header-cta{margin-right:16px}.hero .eyebrow{letter-spacing:.9px}.service-price{line-height:1.6}.choices label>span{padding:14px 3px}.contacts h2{font-size:46px}.hero-bottom a .icon{width:20px;height:20px}}
-@media(max-width:360px){.header-cta{margin-right:10px}.brand{font-size:15px;gap:5px}.header-cta{font-size:12px}.choices label>span{font-size:12px}}
+@media(max-width:360px){.header-cta{margin-right:10px}.brand{gap:5px}}
